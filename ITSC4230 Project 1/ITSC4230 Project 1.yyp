@@ -3,8 +3,11 @@
   "resourceVersion": "1.6",
   "name": "ITSC4230 Project 1",
   "resources": [
+    {"id":{"name":"objMonster1","path":"objects/objMonster1/objMonster1.yy",},"order":1,},
+    {"id":{"name":"pathPatrol1","path":"paths/pathPatrol1/pathPatrol1.yy",},"order":0,},
     {"id":{"name":"sprPlayer","path":"sprites/sprPlayer/sprPlayer.yy",},"order":0,},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":0,},
+    {"id":{"name":"sprMonster1","path":"sprites/sprMonster1/sprMonster1.yy",},"order":1,},
     {"id":{"name":"rmMain","path":"rooms/rmMain/rmMain.yy",},"order":0,},
   ],
   "Options": [
