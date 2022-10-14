@@ -8,6 +8,7 @@
     {"id":{"name":"sprPlayer","path":"sprites/sprPlayer/sprPlayer.yy",},"order":0,},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":0,},
     {"id":{"name":"sprMonster1","path":"sprites/sprMonster1/sprMonster1.yy",},"order":1,},
+    {"id":{"name":"pathPatrol2","path":"paths/pathPatrol2/pathPatrol2.yy",},"order":1,},
     {"id":{"name":"rmMain","path":"rooms/rmMain/rmMain.yy",},"order":0,},
   ],
   "Options": [
