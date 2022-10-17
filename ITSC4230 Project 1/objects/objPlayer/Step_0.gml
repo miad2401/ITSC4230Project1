@@ -1,15 +1,15 @@
-if (keyboard_check(vk_up)){
+if (keyboard_check(vk_up) and !instance_place(x, y-moveSpeed, obj_wall)){
 	y -= moveSpeed
 }
 
-if (keyboard_check(vk_down)){
+if (keyboard_check(vk_down) and !instance_place(x, y+moveSpeed, obj_wall)){
 	y += moveSpeed
 }
 
-if (keyboard_check(vk_left)){
+if (keyboard_check(vk_left) and !instance_place(x-moveSpeed, y, obj_wall)){
 	x -= moveSpeed
 }
 
-if (keyboard_check(vk_right)){
+if (keyboard_check(vk_right) and !instance_place(x+moveSpeed, y, obj_wall)){
 	x += moveSpeed
 }
