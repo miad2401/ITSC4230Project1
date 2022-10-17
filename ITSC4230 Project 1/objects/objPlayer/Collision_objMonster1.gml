@@ -1,5 +1,5 @@
-hp -= other.damage
+objPlayer.hp -= other.damage
 
-if (hp <= 0){
+if (objPlayer.hp <= 0){
 	instance_destroy()	
 }
