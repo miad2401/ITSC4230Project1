@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "pathPatrol1",
   "kind": 0,
-  "closed": false,
+  "closed": true,
   "precision": 4,
   "points": [
     {"speed":100.0,"x":227.0,"y":341.25,},
