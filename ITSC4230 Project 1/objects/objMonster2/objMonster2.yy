@@ -6,7 +6,7 @@
     "name": "sprMonster2",
     "path": "sprites/sprMonster2/sprMonster2.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
