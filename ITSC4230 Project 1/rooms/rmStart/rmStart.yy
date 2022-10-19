@@ -17,7 +17,8 @@
   ],
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Buttons_UI","instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_70A8756C","properties":[],"isDnd":false,"objectId":{"name":"obj_playButton","path":"objects/obj_playButton/obj_playButton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":683.0,"y":384.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"Button_Start","properties":[],"isDnd":false,"objectId":{"name":"obj_playButton","path":"objects/obj_playButton/obj_playButton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.0,"scaleY":3.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":512.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"title","properties":[],"isDnd":false,"objectId":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":320.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_Trees","tilesetId":{"name":"tileset_nature","path":"tilesets/tileset_nature/tileset_nature.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":86,"SerialiseHeight":48,"TileCompressedData":[
 174,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,
@@ -64,13 +65,14 @@
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_Water","tilesetId":{"name":"tileset_water","path":"tilesets/tileset_water/tileset_water.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":86,"SerialiseHeight":48,"TileCompressedData":[
 -359,-2147483648,-11,0,-74,-2147483648,-3,0,6,1,2,3,1,2,3,-3,0,-74,-2147483648,-2,0,7,1,2,3,1,1,2,3,-3,0,-74,-2147483648,3,0,1,2,-3,3,-2,1,3,2,3,0,-76,-2147483648,9,1,2,3,3,2,3,1,2,3,-77,-2147483648,9,1,2,3,3,1,1,2,3,1,-77,-2147483648,8,1,2,3,2,3,1,2,3,-78,-2147483648,2,1,2,-3,
 3,3,1,2,3,-77,-2147483648,9,0,1,2,3,3,2,3,2,3,-77,-2147483648,-2,0,7,2,3,1,2,1,2,3,-77,-2147483648,-3,0,4,1,2,3,3,-80,-2147483648,-4,0,-83,-2147483648,-3,0,-83,-2147483648,-3,0,-83,-2147483648,-3,0,-83,-2147483648,-3,0,-83,-2147483648,-3,0,-83,-2147483648,-3,0,-83,-2147483648,-3,0,-83,-2147483648,-3,0,-2131,-2147483648,],},"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":true,"effectEnabled":true,"effectType":null,"properties":[],},
-    {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":500,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":true,"effectEnabled":true,"effectType":null,"properties":[],},
+    {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":500,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
   ],
   "inheritLayers": false,
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_70A8756C","path":"rooms/rmStart/rmStart.yy",},
+    {"name":"Button_Start","path":"rooms/rmStart/rmStart.yy",},
+    {"name":"title","path":"rooms/rmStart/rmStart.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

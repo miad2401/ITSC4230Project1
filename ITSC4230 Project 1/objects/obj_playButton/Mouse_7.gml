@@ -1,1 +1,2 @@
-room_goto_next()
+if (start_pressed) 
+	room_goto_next()
