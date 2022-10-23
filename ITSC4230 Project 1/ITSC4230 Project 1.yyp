@@ -33,6 +33,7 @@
     {"id":{"name":"sprPlayer_down_walking","path":"sprites/sprPlayer_down_walking/sprPlayer_down_walking.yy",},"order":0,},
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},"order":1,},
     {"id":{"name":"obj_treeSpawner","path":"objects/obj_treeSpawner/obj_treeSpawner.yy",},"order":2,},
+    {"id":{"name":"spr_cursor","path":"sprites/spr_cursor/spr_cursor.yy",},"order":5,},
     {"id":{"name":"objHug","path":"objects/objHug/objHug.yy",},"order":4,},
     {"id":{"name":"sndHit","path":"sounds/sndHit/sndHit.yy",},"order":2,},
     {"id":{"name":"pathPatrol1","path":"paths/pathPatrol1/pathPatrol1.yy",},"order":0,},
