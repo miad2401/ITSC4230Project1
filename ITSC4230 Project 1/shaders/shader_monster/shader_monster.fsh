@@ -15,7 +15,7 @@ void main()
 		gl_FragColor.g -= 0.3;
 	}
 	else {
-		gl_FragColor.a *= float(cureTimer)/60.0;
+		gl_FragColor.a *= float(cureTimer)/30.0;
 	}
 
 }
