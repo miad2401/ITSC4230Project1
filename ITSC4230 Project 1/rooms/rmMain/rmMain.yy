@@ -36,6 +36,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"spawner_monster2","properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"objectTypes","path":"objects/objSpawner/objSpawner.yy",},"objectId":{"name":"objSpawner","path":"objects/objSpawner/objSpawner.yy",},"value":"objMonster_Plant, objMonster_Trunk",},
           ],"isDnd":false,"objectId":{"name":"objSpawner","path":"objects/objSpawner/objSpawner.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"dialogue_controls","properties":[],"isDnd":false,"objectId":{"name":"obj_controlTips","path":"objects/obj_controlTips/obj_controlTips.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_Trees","tilesetId":{"name":"tileset_nature","path":"tilesets/tileset_nature/tileset_nature.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":86,"SerialiseHeight":48,"TileCompressedData":[
 174,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,
@@ -102,6 +103,7 @@
     {"name":"pond_5","path":"rooms/rmMain/rmMain.yy",},
     {"name":"spawner_monster1","path":"rooms/rmMain/rmMain.yy",},
     {"name":"spawner_monster2","path":"rooms/rmMain/rmMain.yy",},
+    {"name":"dialogue_controls","path":"rooms/rmMain/rmMain.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

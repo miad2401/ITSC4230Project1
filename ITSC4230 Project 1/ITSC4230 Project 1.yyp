@@ -3,6 +3,11 @@
   "resourceVersion": "1.6",
   "name": "ITSC4230 Project 1",
   "resources": [
+    {"id":{"name":"spr_wasd","path":"sprites/spr_wasd/spr_wasd.yy",},"order":2,},
+    {"id":{"name":"spr_mouse","path":"sprites/spr_mouse/spr_mouse.yy",},"order":3,},
+    {"id":{"name":"spr_click","path":"sprites/spr_click/spr_click.yy",},"order":4,},
+    {"id":{"name":"tl_controls","path":"timelines/tl_controls/tl_controls.yy",},"order":0,},
+    {"id":{"name":"obj_controlTips","path":"objects/obj_controlTips/obj_controlTips.yy",},"order":8,},
     {"id":{"name":"objLoveMeter","path":"objects/objLoveMeter/objLoveMeter.yy",},"order":3,},
     {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},"order":4,},
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},"order":4,},
