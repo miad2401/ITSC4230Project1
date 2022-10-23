@@ -1,7 +1,4 @@
-patrolPath = pathPatrol1
-path_start(patrolPath, hsp, path_action_restart, false)
-activePath = true
+event_inherited()
 
 alarm[0] = 15
-
 canShoot = true
