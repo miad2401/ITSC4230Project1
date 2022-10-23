@@ -7,7 +7,7 @@ if (spawned < spawn_limit) {
 		spawn_y = irandom(room_height)
 	}
 	
-	instance_create_layer(spawn_x, spawn_y, "Instances", objectType)
+	instance_create_layer(spawn_x, spawn_y, "Instances", objectTypes[irandom(array_length(objectTypes)-1)])
 	spawned += 1
 	alarm[0] = spawnerInterval
 }

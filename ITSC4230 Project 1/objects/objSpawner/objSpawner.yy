@@ -27,7 +27,12 @@
   ],
   "properties": [
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"spawnerInterval","varType":0,"value":"120","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"objectType","varType":5,"value":"noone","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"objectTypes","varType":6,"value":"objMonster_Pig, objMonster_Chicken, objMonster_Plant","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[
+        "objMonster_Pig",
+        "objMonster_Chicken",
+        "objMonster_Plant",
+        "objMonster_Trunk",
+      ],"multiselect":true,"filters":[],},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"spawn_limit","varType":0,"value":"10","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],},
   ],
   "overriddenProperties": [],
