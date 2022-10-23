@@ -10,7 +10,7 @@
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
-  "persistent": false,
+  "persistent": true,
   "parentObjectId": {
     "name": "objMonster2",
     "path": "objects/objMonster2/objMonster2.yy",
@@ -35,6 +35,7 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"idleSprite","path":"objects/objMonster/objMonster.yy",},"objectId":{"name":"objMonster","path":"objects/objMonster/objMonster.yy",},"value":"sprPlant_idle",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"hitSprite","path":"objects/objMonster/objMonster.yy",},"objectId":{"name":"objMonster","path":"objects/objMonster/objMonster.yy",},"value":"sprPlant_hit",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"shootSprite","path":"objects/objMonster2/objMonster2.yy",},"objectId":{"name":"objMonster2","path":"objects/objMonster2/objMonster2.yy",},"value":"sprPlant_shoot",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"mobScore","path":"objects/objMonster/objMonster.yy",},"objectId":{"name":"objMonster","path":"objects/objMonster/objMonster.yy",},"value":"20",},
   ],
   "parent": {
     "name": "Monster2",

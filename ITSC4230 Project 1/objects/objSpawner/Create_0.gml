@@ -1,2 +1,2 @@
-spawned = 0
+global.spawned = 0
 alarm[0] = spawnerInterval
