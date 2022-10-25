@@ -1,6 +1,6 @@
-![Title](./ITSC4230 Project 1/assets/Title.png)
+<img src="ITSC4230 Project 1\assets\Title.png" width="1000" height="400" />
 
-*The creatures of Cutelandia have been corrupted by a myserious blight, and it's up to you to save them. Go forth and bring them back to their senses... with hugs*
+## *The creatures of Cutelandia have been corrupted by a myserious blight, and it's up to you to save them. Go forth and bring them back to their senses... with hugs!*
 
 **Cutelandia Corrupted** is a 2D, Top-down action game about (aggressively) caring for animals. The goal of the game is to cure as many animals as quickly as possible filling up a "Love Meter" (which also acts as the players health). As the game progresses, the Love Meter will naturally deplete and the only way to gain it back is to cure more animals. They will try to attack anyone that comes near them though, so the player will have to be quick to dodge projectiles and swarms of ferile creatures. If the player's Love Meter reaches 0, the game ends in defeat and the player can try again.
 
