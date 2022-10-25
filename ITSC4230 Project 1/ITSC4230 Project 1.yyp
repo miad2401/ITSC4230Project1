@@ -111,6 +111,8 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Monster1","folderPath":"folders/Objects/Enemies/Monster1.yy","order":1,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Monster2","folderPath":"folders/Objects/Enemies/Monster2.yy","order":2,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Projectiles","folderPath":"folders/Objects/Enemies/Monster2/Projectiles.yy","order":3,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Environment","folderPath":"folders/Objects/Environment.yy","order":13,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Objects/Player.yy","order":14,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"UI","folderPath":"folders/Objects/UI.yy","order":11,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy","order":4,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy","order":10,},
@@ -133,8 +135,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tutorial","folderPath":"folders/Sprites/UI/Tutorial.yy","order":3,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy","order":2,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy","order":8,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Environment","folderPath":"folders/Objects/Environment.yy","order":13,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Objects/Player.yy","order":14,},
   ],
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
