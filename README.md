@@ -6,22 +6,22 @@
 
 ## Credits and Licenses
 
-*Sprout Lands Asset Pack* by Cupnoodle (https://cupnooble.itch.io/sprout-lands-asset-pack)\
+*Sprout Lands Asset Pack* by Cupnoodle (https://cupnooble.itch.io/sprout-lands-asset-pack) \
 License: Sprout Lands Free License
 
-*Sprout Lands UI Pack* by Cupnoodle (https://cupnooble.itch.io/sprout-lands-ui-pack)\
+*Sprout Lands UI Pack* by Cupnoodle (https://cupnooble.itch.io/sprout-lands-ui-pack) \
 License: Sprout Lands UI Free License
 
-*RPG Fantasy Keyboard Icons* by Cazwolf (https://cazwolf.itch.io/caz-pixel-keyboard)\
-Licensed under Creative Commons: By Attribution 4.0\
+*RPG Fantasy Keyboard Icons* by Cazwolf (https://cazwolf.itch.io/caz-pixel-keyboard) \
+Licensed under Creative Commons: By Attribution 4.0 \
 https://creativecommons.org/licenses/by/4.0/
 
-Short Circuits (Music) by Brevynmusic- https://brevynmusic.itch.io/short-circuits-energetic-8-bit
-Licensed under Creative Commons: By Attribution 4.0\
+Short Circuits (Music) by Brevynmusic- https://brevynmusic.itch.io/short-circuits-energetic-8-bit \
+Licensed under Creative Commons: By Attribution 4.0 \
 https://creativecommons.org/licenses/by/4.0/
 
-Free SFX by Mixkit- https://mixkit.co/free-sound-effects/game/\
+Free SFX by Mixkit- https://mixkit.co/free-sound-effects/game/ \
 Licensed under Mixkit Free License
 
-Pixel Adventure 2 by Pixelfrog (https://pixelfrog-assets.itch.io/pixel-adventure-2)
+Pixel Adventure 2 by Pixelfrog (https://pixelfrog-assets.itch.io/pixel-adventure-2) \
 Licensed under Creative Commons Zero (CC0)
